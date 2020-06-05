@@ -1,2 +1,2 @@
 # my_first_portfolio
-i done this portfolio project in coursera
+This portfolio build after completing coursera certfication course
